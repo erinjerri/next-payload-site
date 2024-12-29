@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Project: Erin Jerri Professional Brand Portfolio Website
+ Built on Local folder - next-payload-site with PayloadCMS, NextJS, TailwindCSS, and TypeScript.
+
+### Instructions
+* Install PayloadCMS
+
+### Install Tailwind CSS dependencies
+* Install Tailwind CSS dependencies
+```
+npm install -D tailwindcss postcss autoprefixer
+```
 
 ## Getting Started
 
@@ -13,6 +23,7 @@ pnpm dev
 # or
 bun dev
 ```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
